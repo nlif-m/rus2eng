@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 
 eng_qwerty = "qwertyuiop[]asdfghjkl;'zxcvbnm,./`"
