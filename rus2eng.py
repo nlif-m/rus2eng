@@ -1,4 +1,3 @@
-import argparse
 import sys
 
 eng_qwerty = "qwertyuiop[]asdfghjkl;'zxcvbnm,./"
