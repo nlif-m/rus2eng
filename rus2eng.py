@@ -1,8 +1,8 @@
 import sys
 
-eng_qwerty = "qwertyuiop[]asdfghjkl;'zxcvbnm,./"
+eng_qwerty = "qwertyuiop[]asdfghjkl;'zxcvbnm,./`"
 eng_qwerty += eng_qwerty.upper()
-ru_qwerty = "йцукенгшщзхъфывапролджэячсмитьбю."
+ru_qwerty = "йцукенгшщзхъфывапролджэячсмитьбю.ё"
 ru_qwerty += ru_qwerty.upper()
 
 rus2eng = {k: v for k, v in zip(ru_qwerty, eng_qwerty)}
